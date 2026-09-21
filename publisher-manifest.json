@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a8cb2ca410372400ae721e9e",
+  "owner": "efhhynrkm",
+  "repo": "page-fd02ea77525b3cd47653fde0",
+  "title": "Realnode加速器(Realnode)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fd02ea77525b3cd47653fde0",
+      "a": "Realnode加速器(Realnode)",
+      "b": "机场官网线路发布页",
+      "entity": "Realnode加速器(Realnode)",
+      "brand": "Realnode加速器(Realnode)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f6595f5c7891629f06a49cd55f2b8fe35f2724fe2f8d4da188e5ef08dc712e54",
+      "content": {
+        "primary_entity": "Realnode加速器(Realnode)",
+        "keyword1": "Realnode加速器(Realnode)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，并按客户端文档导入订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量和月流量选择套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "Realnode加速器",
+          "AI_DESCRIPTION": "，Realnode加速器围绕稳定跨境访问，提供基础版、旗舰版与团队版三档订阅方案，月付与年付均可选。每月流量从100GB到1000GB，支持3台至20台设备同时在线，覆盖普通节点池与IPLC专线节点，适合个人多设备用户、游戏玩家及小型团队按需选择。",
+          "AI_FAQ_ANSWER_1": "在客户端中选择订阅导入功能，粘贴账号中提供的订阅链接，保存后刷新节点列表即可看到线路。不同客户端界面略有差异，可参考对应客户端文档操作。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出套餐设备数量时，已有连接可能会被新设备替换，建议按实际设备数选择套餐。",
+          "AI_FAQ_ANSWER_3": "套餐内流量用尽后，可等待下个计费周期重置，或升级到更高流量的套餐。旗舰版300GB与团队版1000GB适合流量需求较大的用户。",
+          "AI_FAQ_ANSWER_4": "月付按每月价格结算，年付则提供优惠。基础版年付150元、旗舰版年付350元、团队版年付850元，适合计划长期使用的用户。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线游戏加速优化，适合对延迟敏感的游戏和实时互动场景。普通线路节点池则满足日常浏览与流媒体需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Realnode加速器怎么导入订阅？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时连几台设备？",
+          "AI_FAQ_QUESTION_3": "不同套餐的流量用完了怎么办？",
+          "AI_FAQ_QUESTION_4": "年付和月付价格有什么区别？",
+          "AI_FAQ_QUESTION_5": "IPLC专线适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量规模、设备数量与线路类型出发，选择适合个人或团队的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐选择与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，月付年付灵活切换。",
+          "AI_FEATURE_TEXT_2": "分别支持3台、5台、20台设备同时在线，覆盖个人与办公场景。",
+          "AI_FEATURE_TEXT_3": "可按月付费，也可按年付享受优惠价格，方便长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "流量按需选择",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选择服务到配置订阅，按步骤完成设备接入。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "Realnode加速器提供三档订阅方案，覆盖个人电脑、手机与团队多设备场景。流量、设备数量与线路类型可随套餐升级灵活调整，满足流媒体、游戏与日常办公等不同网络使用需求。",
+          "AI_HERO_SUBTITLE": "Realnode多设备订阅方案",
+          "AI_HIGHLIGHT_1": "三档订阅按流量分级",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC专线游戏优化",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数量和线路类型上有所区分，可按使用人数与月均流量对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版或团队版中选择。",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本是否满足所选套餐要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成设备连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Realnode加速器"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shmxjzs.cn",
+    "host": "shmxjzs.cn"
+  },
+  "file_hashes": {
+    "index.html": "5af0a30e6ccd7719305648fa60f0466af28f9a2b22e021c2c3ac15fae70233bc",
+    "sitemap.xml": "10723f209acd1f8e2f879011bbbc28337bcc6bf1778735f8c93d2eeadd61e300",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "346fcd7347c2706424681cb3e714e4720dfe5326ad684b5767888e447bdc71c6",
+    "robots.txt": "37a39dbda12602ac76fd98fd8dbc1943bc3a94dacc0502b11651747305ddbe0a",
+    "87ae226c3ef6a95099a92139f8c0840c.txt": "fda6e1ab1ae5e2060d8598e2e8d93d3b89c289db69e5322da187865ee4cfbbba"
+  },
+  "revision": "e616918c9809749be6664c0350d9d76071c8fca51e84d9f630e848bc61e76a41"
+}
